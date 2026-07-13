@@ -1,4 +1,4 @@
-// Node palette sidebar -- 2026-07-13 16:57:26
+// Node palette sidebar -- 2026-07-13 16:58:17
 
 interface NodeType {
   type: string;
