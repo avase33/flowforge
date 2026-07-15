@@ -1,4 +1,4 @@
-// Execution log viewer -- 2026-07-15 15:34:35
+// Execution log viewer -- 2026-07-15 15:36:07
 import { useEffect, useRef, useState } from 'react';
 
 interface LogEntry { nodeId: string; level: string; message: string; timestamp: string; data?: unknown; }
