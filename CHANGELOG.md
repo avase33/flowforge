@@ -9,5 +9,5 @@
 - NodePalette React component with 7 categorized node types
 - Live ExecutionLog component with WebSocket streaming
 
-## [v1.07151436] -- 2026-07-15
-- Run: 20260715143602
+## [v1.07151437] -- 2026-07-15
+- Run: 20260715143729
