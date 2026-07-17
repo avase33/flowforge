@@ -1,6 +1,6 @@
 # FlowForge Changelog
 
-## [Unreleased] -- 2026-07-16
+## [Unreleased] -- 2026-07-17
 
 ### Added
 - Execution history API with retry and delete endpoints
@@ -9,5 +9,5 @@
 - NodePalette React component with 7 categorized node types
 - Live ExecutionLog component with WebSocket streaming
 
-## [v1.07161518] -- 2026-07-16
-- Run: 20260716151815
+## [v1.07171617] -- 2026-07-17
+- Run: 20260717161737
